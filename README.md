@@ -102,8 +102,3 @@ See the full PDF report in [Report.pdf](./Report.pdf) for model details, visuali
 **Lior Shviro**  
 GitHub: [@LiorShviro](https://github.com/LiorShviro)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
